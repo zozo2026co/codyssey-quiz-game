@@ -4,6 +4,10 @@
         {
             "question": "Python에서 글자를 출력하는 함수는?",
             "answer": "print()"
+        },
+        {
+            "question": "Python에서 사용자 입력을 받는 함수는?input()",
+            "answer": ""
         }
     ]
 }
