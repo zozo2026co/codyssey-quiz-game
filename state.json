@@ -1,13 +1,55 @@
 {
-    "best_score": 1,
+    "best_score": 5,
     "quizzes": [
         {
             "question": "Python에서 글자를 출력하는 함수는?",
-            "answer": "print()"
+            "answer": "2",
+            "choices": [
+                "input()",
+                "print()",
+                "len()",
+                "int()"
+            ]
         },
         {
-            "question": "Python에서 사용자 입력을 받는 함수는?input()",
-            "answer": ""
+            "question": "Python에서 사용자 입력을 받는 함수는?",
+            "answer": "3",
+            "choices": [
+                "print()",
+                "str()",
+                "input()",
+                "type()"
+            ]
+        },
+        {
+            "question": "Python에서 정수를 나타내는 자료형은?",
+            "answer": "4",
+            "choices": [
+                "str",
+                "float",
+                "list",
+                "int"
+            ]
+        },
+        {
+            "question": "Python에서 조건에 따라 실행할 코드를 구분하는 키워드는?",
+            "answer": "2",
+            "choices": [
+                "for",
+                "if",
+                "def",
+                "import"
+            ]
+        },
+        {
+            "question": "Python에서 반복문을 만드는 키워드는?",
+            "answer": "3",
+            "choices": [
+                "return",
+                "class",
+                "for",
+                "except"
+            ]
         }
     ]
 }
